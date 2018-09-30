@@ -68,7 +68,7 @@ footer{background: #010101;margin-top:77px;}
     position: relative;
 }
 .Logo{
-    position: absolute;
+    position: fixed;
     left: 45%;
     margin-left: -50px !important;  /* 50% of your logo width */
     display: block;
